@@ -1,0 +1,74 @@
+body{
+    background-color: yellow;
+}
+
+.App{
+    text-align: center;
+}
+.list{
+    
+        list-style: none;
+}
+.listc{
+    margin-top: 8px;
+    background-color: darkgray;
+    padding: 16px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.text{
+    color: darkblue;
+  font-size: 24px;
+}
+.card{
+    
+        margin: 0 auto;
+        width: 80%;
+        background-color: rgb(221, 216, 216);
+        padding: 16px;
+        border-radius: 16px;
+        color: white;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+          rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+      
+}
+.main{
+    display: flex;
+  margin-bottom: 30px;
+  justify-content: space-evenly;
+}
+button {
+    background-color: red; 
+    border: none;
+    color: white;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+     margin: 40px;
+    border-radius: 24px;
+  }
+  .Result{
+    margin: 0 auto;
+    width: 50%; 
+    
+    margin-top: 64px;
+    background-color: rgb(164, 157, 157);
+    padding: 16px;
+    border-radius: 16px;
+    color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+      rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+  }
+  .changeColor{
+    margin-left: 400px;
+    background-color: black;
+    width: 100px;
+    height: 40px;
+    padding: 0px;
+    border-radius: 20px;
+    margin-top: 20px;
+  }
+  
